@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this dataset, model or code, please cite it as below."
+title: "Unified Field Toy Model applied to SPARC"
+authors:
+  - family-names: "Ontibon"
+    given-names: "Mauricio Desalvador"
+    orcid: "https://orcid.org/0009-0002-0597-5168"
+version: "1.0.0"
+date-released: "2025-09-23"
+doi: "10.5281/zenodo.xxxxxxx"   # (se reemplaza con el DOI real de Zenodo)
+license: "CC-BY-4.0"
+repository-code: "https://github.com/tuusuario/tu-repo"
+abstract: >
+  Repository containing code, data, and documentation for the toy model
+  of a unified galactic field applied to the SPARC database of rotation
+  curves. Includes Python scripts, CSV datasets, graphical results, and
+  supporting documentation (manifiesto, README, términos).
